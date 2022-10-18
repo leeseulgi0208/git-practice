@@ -1,0 +1,45 @@
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Local Settings@
+Music/
+My Documents@
+NTUSER.DAT
+NTUSER.DAT{937b6aa6-5915-11ec-82d9-00e04c5fa208}.TxR.0.regtrans-ms
+NTUSER.DAT{937b6aa6-5915-11ec-82d9-00e04c5fa208}.TxR.1.regtrans-ms
+NTUSER.DAT{937b6aa6-5915-11ec-82d9-00e04c5fa208}.TxR.2.regtrans-ms
+NTUSER.DAT{937b6aa6-5915-11ec-82d9-00e04c5fa208}.TxR.blf
+NTUSER.DAT{937b6aa7-5915-11ec-82d9-00e04c5fa208}.TM.blf
+NTUSER.DAT{937b6aa7-5915-11ec-82d9-00e04c5fa208}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{937b6aa7-5915-11ec-82d9-00e04c5fa208}.TMContainer00000000000000000002.regtrans-ms
+NetHood@
+Nox_share/
+OneDrive/
+Pictures/
+PrintHood@
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Templates@
+Videos/
+d4ac4633ebd6440fa397b84f1bc94a3c.7z
+file_list
+file_list.txt
+inittk.ini
+inst.ini
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+nuuid.ini
+source/
+useruid.ini
+vmlogs/
+시작 메뉴@
